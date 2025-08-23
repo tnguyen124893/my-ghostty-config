@@ -1,0 +1,12 @@
+background-blur = 25
+background-opacity = 0.95
+theme = catppuccin-mocha
+bold-is-bright = true
+clipboard-read = allow
+clipboard-write = allow
+adjust-cell-height = 20%
+window-height = 60
+window-width = 180
+font-feature = -calt, -liga, -dlig
+working-directory = /Users/tungnguyen/InfiniteLambda/Projects
+window-inherit-working-directory = false
