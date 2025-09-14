@@ -1,12 +1,23 @@
-background-blur = 25
+background-blur = 40
 background-opacity = 0.95
-theme = catppuccin-mocha
 bold-is-bright = true
 clipboard-read = allow
 clipboard-write = allow
-adjust-cell-height = 20%
+adjust-cell-height = 10%
 window-height = 60
 window-width = 180
 font-feature = -calt, -liga, -dlig
-working-directory = /Users/tungnguyen/InfiniteLambda/Projects
+font-size = 14
+working-directory = /Users/tungnguyen/IL/Projects
 window-inherit-working-directory = false
+theme = dark:Everforest Dark - Hard, light:Builtin Solarized Light
+
+keybind = option+s>v=new_split:right
+keybind = option+s>h=new_split:down
+keybind = option+j=goto_split:down
+keybind = option+k=goto_split:up
+keybind = option+h=goto_split:left
+keybind = option+l=goto_split:right
+
+shell-integration=zsh
+window-save-state=always
