@@ -8,9 +8,10 @@ window-height = 60
 window-width = 180
 font-feature = -calt, -liga, -dlig
 font-size = 14
+font-family = JetBrainsMono Nerd Font Mono
 working-directory = /Users/tungnguyen/IL/Projects
 window-inherit-working-directory = false
-theme = dark:Everforest Dark - Hard, light:Builtin Solarized Light
+theme = TokyoNight Moon
 
 keybind = option+s>v=new_split:right
 keybind = option+s>h=new_split:down
@@ -21,3 +22,5 @@ keybind = option+l=goto_split:right
 
 shell-integration=zsh
 window-save-state=always
+
+macos-titlebar-style = tabs
